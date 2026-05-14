@@ -1,0 +1,8 @@
+.env
+*.exe
+*.zip
+.toolchain/
+.go-mod-cache/
+.go-build-cache/
+dist/
+logs/
